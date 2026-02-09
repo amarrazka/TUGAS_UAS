@@ -18,7 +18,7 @@ Tanggal Submit    : 2/9/2026
 
 ### 1. GitHub Repository
 ```
-URL: [https://github.com/[USERNAME]/bike-sharing-analysis](https://github.com/amarrazka/TUGAS_UAS.git)
+URL: https://github.com/amarrazka/TUGAS_UAS.git
 Status: ✅ Public
 ```
 
