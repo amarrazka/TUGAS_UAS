@@ -293,13 +293,12 @@ Status: ✅ Public/Unlisted
 ## 📞 Contact & Support
 
 **Student Contact:**
-- Email: [your.email@example.com]
-- GitHub: [github.com/username]
-- LinkedIn: [linkedin.com/in/username]
+- Email: [kelompok4@gmail.com}
+- GitHub: [github.com/amarrazka]
 
 **Project Links:**
-- Repository: [GitHub URL]
-- Dashboard: [Streamlit URL]
+- Repository: [https://github.com/amarrazka/TUGAS_UAS]
+- Dashboard: [https://tugas-bike-sharing-kelompok--04.streamlit.app/]
 - Video: [YouTube URL]
 
 ---
@@ -351,9 +350,5 @@ Dashboard ini dapat digunakan oleh stakeholder untuk:
 ---
 
 **Submitted by:** [KELOMPOK-4]  
-**Date:** [Submission Date]  
 **Status:** ✅ Ready for Review
 
----
-
-*"Data is the new oil, but insights are the refined product."*
