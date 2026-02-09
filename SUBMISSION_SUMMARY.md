@@ -12,13 +12,13 @@ Anggota Kelompok  : [Amhar Razka Ariyanto - 10124011]
 Kelas             : [IF-1]
 Mata Kuliah       : PEMOGRAMAN DASAR ANALISIS SAINS DATA
 Tugas             : UAS - Bike Sharing Analytics Dashboard
-Tanggal Submit    : [IS]
+Tanggal Submit    : 2/9/2026
 
 ## 🔗 Submission Links
 
 ### 1. GitHub Repository
 ```
-URL: https://github.com/[USERNAME]/bike-sharing-analysis
+URL: [https://github.com/[USERNAME]/bike-sharing-analysis](https://github.com/amarrazka/TUGAS_UAS.git)
 Status: ✅ Public
 ```
 
@@ -32,7 +32,7 @@ Status: ✅ Public
 
 ### 2. Streamlit Dashboard (Deployed)
 ```
-URL: https://[YOUR-APP-NAME].streamlit.app
+URL: https://tugas-bike-sharing-kelompok--04.streamlit.app/
 Status: ✅ Live & Accessible
 ```
 
