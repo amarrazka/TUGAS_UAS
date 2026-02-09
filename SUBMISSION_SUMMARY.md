@@ -2,13 +2,17 @@
 
 ## 📋 Student Information
 ```
-Nama Mahasiswa : [ISI NAMA ANDA]
-NIM            : [ISI NIM ANDA]
-Kelas          : [ISI KELAS ANDA]
-Mata Kuliah    : Data Analytics / Data Science
-Tugas          : UAS - Bike Sharing Analytics Dashboard
-Tanggal Submit : [ISI TANGGAL SUBMIT]
-```
+Nama Kelompok     : [Kelompok 4]
+Anggota Kelompok  : [Amhar Razka Ariyanto - 10124011]
+                    [Rafli zeirofi - 10124025]
+                    [Ryan Setiawan - 10124041]
+                    [Jaifar Husnayan Hakim  - 10124042]
+                    [Aditia Pramudia - 10124043]
+                    [Daffa Rizki ramadhan - 10124475]
+Kelas             : [IF-1]
+Mata Kuliah       : PEMOGRAMAN DASAR ANALISIS SAINS DATA
+Tugas             : UAS - Bike Sharing Analytics Dashboard
+Tanggal Submit    : [IS]
 
 ## 🔗 Submission Links
 
@@ -346,7 +350,7 @@ Dashboard ini dapat digunakan oleh stakeholder untuk:
 
 ---
 
-**Submitted by:** [Your Name]  
+**Submitted by:** [KELOMPOK-4]  
 **Date:** [Submission Date]  
 **Status:** ✅ Ready for Review
 
